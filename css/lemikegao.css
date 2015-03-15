@@ -5,8 +5,14 @@
     }
 }
 
+html {
+  position: relative;
+  min-height: 100%;
+}
+
 body {
   color: #383838;
+  margin-bottom: 80px;
 }
 
 p {
